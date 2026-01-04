@@ -1,0 +1,8 @@
+{
+  "name": "PharmaClic & Medic",
+  "description": "A comprehensive management solution integrating Medical Office administration and Pharmacy POS/Inventory systems.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
